@@ -8,3 +8,5 @@ echo ${NAME}
 echo ${AGE}
 echo ${CITY}
 
+echo 'This is an update'
+
